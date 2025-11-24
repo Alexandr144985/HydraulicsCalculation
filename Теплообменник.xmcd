@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?validation-md5-digest 7da20f3359dfe03aaa7a7dfc71da4108?>
+<?validation-md5-digest cdd101dc23ead1a0f740d66af971e9e1?>
 <worksheet version="3.0.3" xmlns="http://schemas.mathsoft.com/worksheet30" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ws="http://schemas.mathsoft.com/worksheet30" xmlns:ml="http://schemas.mathsoft.com/math30" xmlns:u="http://schemas.mathsoft.com/units10" xmlns:p="http://schemas.mathsoft.com/provenance10">
 	<pointReleaseData/>
 	<metadata>
@@ -10,12 +10,12 @@
 			<author/>
 			<company>Parametric Technology Corporation</company>
 			<keywords/>
-			<revisedBy>777</revisedBy>
+			<revisedBy/>
 		</userData>
 		<identityInfo>
-			<revision>7</revision>
+			<revision>8</revision>
 			<documentID>93C54211-0697-41F8-A1A5-B6A6D3F35D06</documentID>
-			<versionID>CD956EB8-249E-4E28-A698-0BC07C23E725</versionID>
+			<versionID>A46FB232-9E23-463C-A87B-234E024060D9</versionID>
 			<parentVersionID>00000000-0000-0000-0000-000000000000</parentVersionID>
 			<branchID>00000000-0000-0000-0000-000000000000</branchID>
 		</identityInfo>
@@ -113,7 +113,7 @@
 	<regions>
 		<region region-id="820" left="78" top="18" width="276" height="45" align-x="78" align-y="30" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<text use-page-width="false" push-down="false" lock-width="true">
-				<p style="Normal" margin-left="inherit" margin-right="inherit" text-indent="inherit" text-align="center" list-style-type="inherit" tabs="inherit">ОСНОВЫ РАСЧЁТА И ПРОЕКТИРООВАНИЯ</p>
+				<p style="Normal" margin-left="inherit" margin-right="inherit" text-indent="inherit" text-align="center" list-style-type="inherit" tabs="inherit">ОСНОВЫ РАСЧЁТА И ПРОЕКТИРОВАНИЯ</p>
 				<p style="Normal" margin-left="0" margin-right="0" text-indent="inherit" text-align="center" list-style-type="inherit" tabs="inherit">РЕКУПЕРАТИВНОГО ТЕПЛООБМЕННОГО АППАРАТА ТРУБЧАТОГО ТИПА</p>
 			</text>
 		</region>
